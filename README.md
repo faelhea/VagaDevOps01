@@ -27,7 +27,7 @@ Check that your image is listed among other docker images on your system.
    
 # Run
 
-Now run the image you've just built.
+Now run the image you've ju* * * * *st built.
 
     $ docker run -d --name dotnet-core-container gulangurman/docker-dotnet-core   
 
@@ -37,4 +37,4 @@ You can see the "Hello world!" message in the container logs.
 
     $ docker logs dotnet-core-container   
 
-# Adiconandos informação.
+# Adicionando informação.
