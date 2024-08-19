@@ -38,3 +38,4 @@ You can see the "Hello world!" message in the container logs.
     $ docker logs dotnet-core-container   
 
 # Adicionando informação
+1 - Validar Git.
