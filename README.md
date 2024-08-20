@@ -19,14 +19,14 @@ First build the image and tag it with a name.
 
     $ docker build -t gulangurman/docker-dotnet-core .       
 
-
+# Check
 Check that your image is listed among other docker images on your system.    
 
     $ docker images
    
 # Run
 
-Now run the image you've ju* * * * *st built.
+Now run the image you've just built.
 
     $ docker run -d --name dotnet-core-container gulangurman/docker-dotnet-core   
 
