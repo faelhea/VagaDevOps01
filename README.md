@@ -38,8 +38,13 @@ You can see the "Hello world!" message in the container logs.
 
 # Adicionando informação
 1 - Adicionando o NGROK para monitorar o git por solicitação push dentro do GIT.
+
 1.1 - NGROK foi usado porque o jenkins não tem um DNS publico.
+
 1.2 - Informação:
+
 	https://dashboard.ngrok.com/
+ 
 	Exemplo de URL: (https://bbdb-2804-868-d042-2556-e755-49aa-f1cd-176b.ngrok-free.app/github-webhook/)
+ 
 1.3 - Agora o jenkins esta vinculado com o DNS publico.
